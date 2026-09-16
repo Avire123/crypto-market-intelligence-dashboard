@@ -34,7 +34,9 @@ The dashboard combines live market metrics, market-movement indicators, crypto s
 ## Dashboard Preview
 
 <img width="1354" height="685" alt="dashboard" src="https://github.com/user-attachments/assets/f3079e59-36fc-4759-b557-65e400707e86" />
-
+<img width="1279" height="969" alt="2" src="https://github.com/user-attachments/assets/90df8c53-f238-426b-a1f6-9f5aaab573dc" />
+<img width="1279" height="969" alt="3" src="https://github.com/user-attachments/assets/c7c181ae-fa3a-4b2a-b94a-6430247fe88b" />
+<img width="1279" height="956" alt="4" src="https://github.com/user-attachments/assets/98362c27-7d9c-4216-9014-98deac77acf2" />
 
 ## Project Structure
 
