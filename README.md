@@ -1,3 +1,4 @@
+<img width="1354" height="685" alt="dashboard" src="https://github.com/user-attachments/assets/4e1037a6-53af-47c2-9426-70d1b952d35b" />
 # 🪙 Crypto Market Intelligence Dashboard
 
 > A real-time cryptocurrency market monitoring application built with Python, web scraping, Pandas, Plotly, and Streamlit.
@@ -33,17 +34,8 @@ The dashboard combines live market metrics, market-movement indicators, crypto s
 
 ## Dashboard Preview
 
-Add your Streamlit dashboard screenshot to:
+<img width="1354" height="685" alt="dashboard" src="https://github.com/user-attachments/assets/f3079e59-36fc-4759-b557-65e400707e86" />
 
-```text
-screenshots/dashboard.png
-```
-
-Then it can be displayed here:
-
-```markdown
-![Crypto Market Dashboard](screenshots/dashboard.png)
-```
 
 ## Project Structure
 
